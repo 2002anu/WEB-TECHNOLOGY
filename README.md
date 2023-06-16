@@ -29,6 +29,14 @@ TEXT SHRINKING
 ![Screenshot (13)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/4e13b500-4f05-4c88-980c-c306299dc8ec)
 
 
+Assignment-4 : COUNTING OF VOWELS FROM LEFT MOST OF THE INPUT STRING
+
+OUTPUT:
+
+![Screenshot (14)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/11978ec2-f7f9-42e0-8d3b-8e5797af2ae1)
+
+![Screenshot (15)](https://github.com/AnushaPShet/WEB-TECHNOLOGY/assets/119748994/e5ba82c9-0ad3-4278-a377-72606077a6cf)
+
 
 
 
