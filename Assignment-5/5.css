@@ -29,7 +29,7 @@ branch {
     display: block;
     margin-left: 20px;
     font-size: 12pt;
-    color: rgb(235, 27, 148);
+    color: Purple;
 }
 
 year {
@@ -43,5 +43,5 @@ e-mail {
     display: block;
     margin-left: 20px;
     font-size: 12pt;
-    color: rgb(11, 229, 241);
+    color: rgb(252, 15, 169);
 }
