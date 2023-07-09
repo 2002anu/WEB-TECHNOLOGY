@@ -1,3 +1,4 @@
+<!--------Write the PHP programs to do the following: a. Implement simple calculator operations.------->
 <?php
 	  $result = '';
 	  $oprand1 = '';
